@@ -65,46 +65,6 @@ src/
 └── index.tsx           # Entry point
 ```
 
-## 🎨 Customization
-
-### Personal Information
-Update the following files to customize the portfolio for your needs:
-
-- **Personal Details**: Update contact information in `Contact.tsx`
-- **Projects**: Modify the projects array in `Projects.tsx`
-- **Skills**: Update skill levels and categories in `Skills.tsx`
-- **About Section**: Edit the content in `About.tsx`
-
-### Styling
-- **Colors**: Modify CSS variables in `App.css`
-- **Fonts**: Change the Google Fonts import in `index.html`
-- **Layout**: Adjust component styles in their respective CSS files
-
-## 📱 Responsive Design
-
-The portfolio is fully responsive and optimized for:
-- Desktop (1200px+)
-- Tablet (768px - 1199px)
-- Mobile (320px - 767px)
-
-## 🚀 Deployment
-
-### Build for Production
-```bash
-npm run build
-```
-
-### Deploy to Netlify
-1. Push your code to GitHub
-2. Connect your repository to Netlify
-3. Set build command: `npm run build`
-4. Set publish directory: `build`
-
-### Deploy to Vercel
-1. Install Vercel CLI: `npm i -g vercel`
-2. Run: `vercel`
-3. Follow the prompts
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -116,8 +76,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📞 Contact
 
 - **Name**: Samwel
-- **Email**: samwel@example.com
-- **Location**: Nairobi, Kenya
+- **Email**: samwelbuluba@22gmail.com
+- **Location**: Dar es salaam, Tanzania
 - **Specialization**: Backend Development
 
 ## 🔧 Available Scripts
